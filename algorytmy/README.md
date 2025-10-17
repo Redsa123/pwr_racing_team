@@ -1,4 +1,4 @@
-# Dokumentacja Projektu - PWR Racing Team (Algorytmy)
+# Dokumentacja Projektu - Algorytmy geometryczne
 
 ## Spis treści
 1. [Struktura projektu](#struktura-projektu)
